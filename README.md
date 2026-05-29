@@ -1,7 +1,6 @@
 # 🎓 Student Database Management System
 
 The Student Database Management System is a SQL-based project developed to manage and organize student-related information efficiently.
-
 This project focuses on creating a structured relational database with real-world college management operations such as student enrollment, course management, attendance tracking, performance analysis, and fee management using SQL queries.
 ---
 
